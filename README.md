@@ -89,7 +89,7 @@ Busco unir conhecimento em **infraestrutura** e **engenharia de software** para 
 
 * 💻 **Foco:** Backend Java e Engenharia de Software
 * 🧠 **Interesses:** Cibersegurança, arquitetura de sistemas e performance
-* ⚙️ **Projeto atual:** Sistema *Tela Livre* (democratização do acesso ao cinema)
+* ⚙️ **Projeto mais recente (2026/1):** Sistema *Tela Livre* (democratização do acesso ao cinema)
 
 ---
 
