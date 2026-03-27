@@ -8,7 +8,7 @@ Repositório com atividades, exercícios e projetos desenvolvidos durante o curs
 
 Este repositório representa minha evolução técnica na área de tecnologia.
 
-Atualmente, como estudante de **Engenharia de Software** e **Desenvolvimento de Software Multiplataforma (DSM)**, utilizo este espaço para aplicar conceitos de:
+Atualmente, como estudante de e **Desenvolvimento de Software Multiplataforma (DSM)**, utilizo este espaço para aplicar conceitos de:
 
 * Lógica de programação
 * Programação Orientada a Objetos (POO)
@@ -96,8 +96,7 @@ Busco unir conhecimento em **infraestrutura** e **engenharia de software** para 
 ## 👨‍💻 Autor
 
 **Lucas Araujo de Souza**
-🎓 Estudante de Engenharia de Software e DSM
-🏐 Atleta de Vôlei
+🎓 Estudante de Desenvolvimento de Software Multiplataforma (DSM)
 💡 Focado em criar código limpo, eficiente e escalável
 
 ---
