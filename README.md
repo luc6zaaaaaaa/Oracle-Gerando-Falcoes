@@ -6,102 +6,104 @@ Repositório com atividades, exercícios e projetos desenvolvidos durante o curs
 
 ## 📚 Sobre o Projeto
 
-Este repositório reúne minha evolução na área de tecnologia, com foco em **lógica de programação** e **desenvolvimento em Java**.
+Este repositório representa minha evolução técnica na área de tecnologia.
 
-Aqui você vai encontrar desde exercícios básicos até pequenos projetos práticos, todos organizados para demonstrar meu progresso e aprendizado.
+Atualmente, como estudante de **Engenharia de Software** e **Desenvolvimento de Software Multiplataforma (DSM)**, utilizo este espaço para aplicar conceitos de:
+
+* Lógica de programação
+* Programação Orientada a Objetos (POO)
+* Estruturação e organização de sistemas
+
+Mais do que apenas escrever código, o foco está em desenvolver **soluções organizadas, eficientes e escaláveis**, aplicando boas práticas desde a base.
 
 ---
 
-## 🎯 Objetivo
+## 🏗️ Engenharia e Automação (Destaque Técnico)
 
-Evoluir constantemente na área de desenvolvimento de sistemas, com foco futuro em:
+Um dos diferenciais deste repositório é o desenvolvimento de um **Organizador de Arquivos em Java**, criado para manter o projeto estruturado de forma automática e escalável.
 
-* 💻 Engenharia de Software
-* 🧠 Resolução de problemas
-* ⚙️ Desenvolvimento Back-end
+### 🛠️ Principais características:
+
+* ⚡ **Java NIO.2 API**
+  Utilização de `java.nio.file` para manipulação de arquivos com maior performance em comparação à API legada (`java.io.File`).
+
+* 🛡️ **Robustez e confiabilidade**
+  Uso de `StandardCopyOption.REPLACE_EXISTING` e tratamento detalhado de exceções (`IOException`).
+
+* 🧠 **Clean Code**
+  Código modularizado, com separação de responsabilidades e uso de **Java Streams** para processamento eficiente.
+
+* 📈 **Escalabilidade**
+  Estrutura baseada em `HashMap`, permitindo expansão fácil para novas categorias e projetos.
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)](https://www.java.com/)
+
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)](https://git-scm.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/)
 
 ---
 
 ## 📁 Estrutura do Repositório
 
+Após a execução do script de automação, os arquivos são organizados da seguinte forma:
+
 ```
 📦 Oracle-Gerando-Falcoes
- ┣ 📂 exercicios-basicos
- ┣ 📂 logica-programacao
- ┣ 📂 projetos-praticos
+ ┣ 📂 logica-basica            # Variáveis, condicionais e fundamentos
+ ┣ 📂 estruturas-de-repeticao  # While, For, ForEach e controle de fluxo
+ ┣ 📂 entrada-e-saida          # Interação com usuário (Scanner)
+ ┣ 📂 orientacao-a-objetos     # Classes, objetos, herança e polimorfismo
+ ┣ 📂 listas-e-colecoes        # Estruturas como ArrayList e Map
+ ┣ 📂 projetos-praticos        # Aplicações reais e automações
  ┗ README.md
 ```
 
 ---
 
-## ▶️ Como Executar os Projetos
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/luc6zaaaaaaa/Oracle-Gerando-Falcoes.git
-```
-
-2. Abra o projeto em uma IDE:
-
-* IntelliJ IDEA
-* VS Code
-
-3. Execute os arquivos `.java`
-
----
-
-## 💡 Principais Aprendizados
-
-* Estrutura básica de programação em Java
-* Organização e legibilidade de código
-* Uso de lógica para resolução de problemas
-* Boas práticas iniciais de desenvolvimento
-
----
-
 ## 🚀 Destaques
 
-✔ Exercícios progressivos de lógica
-✔ Projetos simples com aplicação prática
-✔ Organização voltada para portfólio
-✔ Evolução contínua documentada
+✔ Organização automatizada de arquivos
+✔ Evolução técnica documentada
+✔ Código estruturado com boas práticas
+✔ Base sólida para projetos mais complexos
 
 ---
 
 ## 📈 Próximos Passos
 
-* [ ] Criar projetos mais completos
-* [ ] Implementar interfaces (CLI ou futuramente web)
-* [ ] Aplicar boas práticas mais avançadas
+* [ ] Evoluir projetos para aplicações completas
+* [ ] Implementar interfaces (CLI e Web)
+* [ ] Integrar com banco de dados
+* [ ] Aplicar padrões de projeto (Design Patterns)
 
+---
+
+## 🎯 Perfil e Objetivos
+
+Busco unir conhecimento em **infraestrutura** e **engenharia de software** para desenvolver sistemas de alto desempenho.
+
+* 💻 **Foco:** Backend Java e Engenharia de Software
+* 🧠 **Interesses:** Cibersegurança, arquitetura de sistemas e performance
+* ⚙️ **Projeto atual:** Sistema *Tela Livre* (democratização do acesso ao cinema)
 
 ---
 
 ## 👨‍💻 Autor
 
 **Lucas Araujo de Souza**
-🎓 Estudante de Desenvolvimento de Software
-💡 Focado em evolução constante na área de tecnologia
+🎓 Estudante de Engenharia de Software e DSM
+🏐 Atleta de Vôlei
+💡 Focado em criar código limpo, eficiente e escalável
 
 ---
 
-## ⭐ Contribuição
+## ⭐ Observação
 
-Este repositório faz parte do meu aprendizado, mas sugestões são sempre bem-vindas!
+Este repositório possui fins educacionais e representa minha jornada de aprendizado com apoio da **Oracle** e da **Gerando Falcões**.
 
 ---
-
-## 📌 Observação
-
-Este projeto tem fins educacionais e representa minha jornada de aprendizado com apoio da **Oracle** e da **Gerando Falcões**.
-
-
